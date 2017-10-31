@@ -132,12 +132,12 @@ footer {
 	padding-top: 20px;
 	padding: 10px;
 	clear: both;
-	background-color: 
+	background-color: black;
 	padding: 10px;
 }
 
 footer p {
-	color: #b2b2b2;
+	color: white;
 	font-family: Avenir;
 	font-size: 13px;
 	padding: 25px;
